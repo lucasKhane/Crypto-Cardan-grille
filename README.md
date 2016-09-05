@@ -1,5 +1,5 @@
-# Crypto-Cardano-grille
-Cryptography using a Cardano grille
+# Crypto-Cardan-grille
+Cryptography using a Cardan grille
 
 Taken from https://en.wikipedia.org/wiki/Cardan_grille
 
